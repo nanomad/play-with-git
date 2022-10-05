@@ -1,4 +1,3 @@
-Questo programma non fa assolutamente nulla di utile
+Questo programma non fa assolutamente nulla di utile, forse
 
-
-Una nuova riga
+Aggiungo una riga!
